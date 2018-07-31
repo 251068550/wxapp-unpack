@@ -56,4 +56,4 @@ Android 手机最近使用过的微信小程序所对应的 wxapkg 包文件都�
 
 这些实现除了参考微信小程序开发文档、 wxapkg 文件解包后的内容以及通过开发者工具编译的一些 wxml 外，还参考了一些 github 上的相关内容的分析( [unwxapkg.py](https://gist.github.com/feix/32ab8f0dfe99aa8efa84f81ed68a0f3e)、[wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack/) )，在此感谢他们。
 
-另外，如果您对本程序的一些具体实现细节感兴趣，可以参考 [DETAILS.md](https://github.com/qwerty472123/wxappUnpacker/blob/master/DETAILS.md) 。
+另外，如果您对本程序的一些具体实现细节感兴趣，可以参考 [DETAILS.md](https://github.com/251068550/wxapp-unpack/blob/master/DETAILS.md) 。
